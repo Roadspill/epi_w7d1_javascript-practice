@@ -1,0 +1,7 @@
+.btn {
+  display: block;
+}
+
+#results, #celebMale1, #celebMale2, #celebMale3, #celebFemale1, #celebFemale2, #celebFemale3, #error {
+  display: none;
+}
